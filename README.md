@@ -1,49 +1,91 @@
-<h1 align="center">Hey 👋, I'm Mason</h1>
+<!-- 👑 Mason's GitHub Profile README - Beast Mode Activated -->
+
+<h1 align="center">⚡ Mason — Terminal-Native | Cyber DevOps | OSS Tinkerer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mason.;Dev%2FOps+Enthusiast;Code+%2B+Coffee+%3D+Bliss;Always+learning+and+building.&center=true&width=500&height=50&duration=4000&pause=500&color=F97316&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Security+%7C+DevOps+Engineer+%7C+Linux+Fanatic;Building+clean+tools+for+dirty+jobs.;Always+learning+%7C+Always+automating;&center=true&width=800&height=45&duration=4000&pause=500&color=FACC15&vCenter=true&size=22" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma-s-on&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-s-on&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ma-s-on&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ma-s-on&theme=radical&no-frame=true&column=7" />
+  <img src="https://komarev.com/ghpvc/?username=Ma-s-on&style=flat-square&color=F97316" alt="Visitor Counter" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Toolbox of Choice
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,git,github,linux,vim,bash,sqlite,ubuntu" />
 </p>
 
 ---
 
-### ✨ Fun Facts
-
-- 💡 I like automating everything possible.
-- ⚙️ Always optimizing for minimalism and performance.
-- 🔧 Currently building tools and leveling up in systems programming.
-- 🐧 Love open-source and clean command-line setups.
+### 🎯 Currently
+- 👷 Working on **DevOps tools** that simplify complex tasks
+- 📡 Building **cybersecurity automations** for detection & response
+- ⚙️ Experimenting with **system-level Python + shell** integration
 
 ---
 
-### 📈 Extras
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma-s-on&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-s-on&layout=compact&theme=radical&langs_count=10" />
+</p>
+
+---
+
+### 🔥 Streaks & Trophies
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ma-s-on&theme=radical&ring=F97316&fire=FACC15&currStreakLabel=ffffff" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ma-s-on&theme=radical&no-frame=true&column=6&margin-w=15" />
+</p>
+
+---
+
+### 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🧠 Mason IRL
+
+- 🧩 Fan of elegant CLI tools and well-structured Linux dotfiles.
+- 🥷 Secretly dreams of writing a custom OS kernel one day.
+- ☕ Replaces water with espresso in all projects.
+- 📖 Reads source code for fun. Seriously.
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ma-s-on">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jesseisnulled@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎉 Final Word
+
+<p align="center">
+  <b>"Ship fast. Break nothing. Automate everything."</b><br/>
+  <i>— Mason, probably while sipping coffee in a terminal session</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23FACC15&aColor=%23F97316&borderColor=%23272c34" alt="Joke" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ma-s-on&style=for-the-badge" alt="Visitors" />
