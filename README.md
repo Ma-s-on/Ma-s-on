@@ -31,4 +31,4 @@
 
 ---
 
-<p align="center">✨ Let's build something awesome together ✨</p>
+<p align="center">✨ Let's build something awesome together! ✨</p>
