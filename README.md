@@ -91,7 +91,7 @@
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
-
+  <img src="https://raw.githubusercontent.com/unrestt/unrestt/output/snake.svg" alt="Snake animation" />
 ---
 
 <p align="center">✨ Let's build something awesome together ✨</p>
